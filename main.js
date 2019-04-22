@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     document.getElementById("add").onclick = () => {
         var input = document.getElementById("new-todo").value;
         if (input == "") {
-            alert("Bitte etwas eingeben!")
+            alert("no input")
         }
         else {
             add_element(input, undefined);
