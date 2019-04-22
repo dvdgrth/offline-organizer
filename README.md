@@ -1,4 +1,4 @@
-# offline_organizer
+# offline-organizer
 A very simple offline organizer/planer.
 
 To use it you have to create and edit your html files directly.
