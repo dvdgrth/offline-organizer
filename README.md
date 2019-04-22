@@ -5,6 +5,6 @@ To use it you have to create and edit your html files directly.
 
 The todo list of index.html uses [local storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).
 
-[[https://github.com/dvdgrth/offline_organizer/organizer_1.png|alt=screenshot of index]]
+[[organizer_1.png|alt=screenshot_of_index]]
 
-[[https://github.com/dvdgrth/offline_organizer/organizer_2.png|alt=screenshot of category template]]
+[[organizer_2.png|alt=screenshot_of_category_template]]
